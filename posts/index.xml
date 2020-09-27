@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on My First Website</title>
+    <title>Blog on Eve&#39;s and Olga&#39;s website</title>
     <link>https://olgalugai.github.io/posts/</link>
-    <description>Recent content in Posts on My First Website</description>
+    <description>Recent content in Blog on Eve&#39;s and Olga&#39;s website</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 25 Jun 2020 16:25:00 +0100</lastBuildDate>
@@ -17,7 +17,8 @@
       <pubDate>Thu, 25 Jun 2020 16:25:00 +0100</pubDate>
       
       <guid>https://olgalugai.github.io/posts/my-first-post/</guid>
-      <description>Testing the first post</description>
+      <description>Testing the first post
+Hi Eve how are you </description>
     </item>
     
   </channel>

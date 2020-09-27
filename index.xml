@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>My First Website</title>
+    <title>Home on Eve&#39;s and Olga&#39;s website</title>
     <link>https://olgalugai.github.io/</link>
-    <description>Recent content on My First Website</description>
+    <description>Recent content in Home on Eve&#39;s and Olga&#39;s website</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 25 Jun 2020 16:25:00 +0100</lastBuildDate>
@@ -12,13 +12,22 @@
     
     
     <item>
+      <title>About</title>
+      <link>https://olgalugai.github.io/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://olgalugai.github.io/about/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Felis donec et odio pellentesque diam. Sapien nec sagittis aliquam malesuada bibendum. Velit dignissim sodales ut eu sem integer vitae justo. Vulputate sapien nec sagittis aliquam malesuada bibendum. Eu ultrices vitae auctor eu augue ut. Amet mattis vulputate enim nulla aliquet porttitor lacus luctus. Mauris in aliquam sem fringilla. Sed faucibus turpis in eu mi bibendum.</description>
+    </item>
+    
+    <item>
       <title>My First Post</title>
-      <link>https://olgalugai.github.io/en/my-first-post/</link>
+      <link>https://olgalugai.github.io/posts/my-first-post/</link>
       <pubDate>Thu, 25 Jun 2020 16:25:00 +0100</pubDate>
       
-      <guid>https://olgalugai.github.io/en/my-first-post/</guid>
+      <guid>https://olgalugai.github.io/posts/my-first-post/</guid>
       <description>Testing the first post
-test test test test</description>
+Hi Eve how are you </description>
     </item>
     
   </channel>

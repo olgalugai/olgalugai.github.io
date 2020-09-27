@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Das ist der deutsche Titel</title>
+    <link>https://olgalugai.github.io/de/</link>
+    <description>Recent content on Das ist der deutsche Titel</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="https://olgalugai.github.io/de/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+  </channel>
+</rss>

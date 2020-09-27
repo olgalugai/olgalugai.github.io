@@ -4,16 +4,10 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
 	<meta name="robots" content="index, follow" />
 	<meta name="googlebot" content="index, follow, noarchive" />
-	<title>Eve&#39;s and Olga&#39;s website - Categories</title>
+	<title>Eve&#39;s and Olga&#39;s website - Contact</title>
 	<link rel="icon" href="https://olgalugai.github.io/favicon.ico" />
 	<meta name="description" content="Terrassa is a simple, fast and responsive theme for Hugo with a strong focus on accessibility made from scratch." />
 
-	
-	
-	<link rel="alternate" hreflang="en" href="https://olgalugai.github.io/categories/" title="en">
-	
-	<link rel="alternate" hreflang="de" href="https://olgalugai.github.io/de/categories/" title="de">
-	
 	
 
 	<meta name="generator" content="Hugo 0.73.0" />
@@ -21,21 +15,17 @@
 	
 
 	<meta name="twitter:card" content="summary"/>
-<meta name="twitter:title" content="Categories"/>
-<meta name="twitter:description" content="Terrassa is a simple, fast and responsive theme for Hugo with a strong focus on accessibility made from scratch."/>
+<meta name="twitter:title" content="Contact"/>
+<meta name="twitter:description" content="Send me a message!"/>
 
-	<meta property="og:title" content="Categories" />
-<meta property="og:description" content="Terrassa is a simple, fast and responsive theme for Hugo with a strong focus on accessibility made from scratch." />
+	<meta property="og:title" content="Contact" />
+<meta property="og:description" content="Send me a message!" />
 <meta property="og:type" content="website" />
-<meta property="og:url" content="https://olgalugai.github.io/categories/" />
+<meta property="og:url" content="https://olgalugai.github.io/contact/" />
 
 
 
 	<meta property="og:locale" content="en" />
-	
-	
-	<meta property="og:locale:alternate" content="de" />
-	
 	
 
 	
@@ -86,7 +76,7 @@
         </li>
         
         <li class="menu__items__item" aria-label="Contact">
-            <a href="/contact/" class="menu__items__item__link "
+            <a href="/contact/" class="menu__items__item__link active"
                 alt="Contact" role="menuitem">
                 Contact
             </a>
@@ -138,23 +128,51 @@
             
                 <span class="active language">en</span>
             
-    
-            
-                <span><a  href="/de/categories/">de</a></span>
-            
 </nav>
 
     
 </header>
 
-<main class="content">
-	
+<main class="contact">
+    <h1 class="contact__title">Contact</h1>
+    <p class="contact__content">Send me a message!</p>
 
-	
+    
+    <form name="contact" method="POST" data-netlify="true" class="contact__form" id="contactForm">
+        
 
-	
+            
+            <div class="contact__field contact__field--name">
+                <label for="name">Name</label>
+                <input type="text" name="name" placeholder="Your name"
+                    class="contact__form__input contact__form__name" id="name"
+                    aria-labelledby="name" required>
+            </div>
 
+            
+            <div class="contact__field contact__field--email">
+                <label for="email">Email</label>
+                <input type="email" name="email" placeholder="Your email"
+                    class="contact__form__input contact__form__email" id="email"
+                    aria-labelledby="email" required>
+            </div>
 
+            
+            <div class="contact__field contact__field--msg">
+                <label for="message">Write something</label>
+                <textarea name="message" id="message" form="contactForm"
+                    maxlength="750" id="message"
+                    arial-labelledby="message" required></textarea>
+            </div>
+
+            
+            <div class="contact__field contact__field--submit">
+                <button type="submit" class="ripple-btn submit" onclick="cleanForm" aria-label="Send">
+                    Send
+                </button>
+            </div>
+
+        </form>
 </main>
 <footer class="footer">
     
