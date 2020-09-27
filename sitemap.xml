@@ -3,17 +3,17 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://olgalugai.github.io/posts/my-first-post/</loc>
+    <loc>https://olgalugai.github.io/en/</loc>
+    <lastmod>2020-06-25T16:25:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://olgalugai.github.io/en/my-first-post/</loc>
     <lastmod>2020-06-25T16:25:00+01:00</lastmod>
   </url>
   
   <url>
     <loc>https://olgalugai.github.io/</loc>
-    <lastmod>2020-06-25T16:25:00+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://olgalugai.github.io/posts/</loc>
     <lastmod>2020-06-25T16:25:00+01:00</lastmod>
   </url>
   
