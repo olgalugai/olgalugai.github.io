@@ -3,44 +3,44 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://olgalugai.github.io/ru/categories/</loc>
+    <loc>https://olgalugai.com/ru/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://olgalugai.github.io/categories/"
+                href="https://olgalugai.com/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="https://olgalugai.github.io/ru/categories/"
+                href="https://olgalugai.com/ru/categories/"
                 />
   </url>
   
   <url>
-    <loc>https://olgalugai.github.io/ru/tags/</loc>
+    <loc>https://olgalugai.com/ru/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://olgalugai.github.io/tags/"
+                href="https://olgalugai.com/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="https://olgalugai.github.io/ru/tags/"
+                href="https://olgalugai.com/ru/tags/"
                 />
   </url>
   
   <url>
-    <loc>https://olgalugai.github.io/ru/</loc>
+    <loc>https://olgalugai.com/ru/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://olgalugai.github.io/"
+                href="https://olgalugai.com/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="https://olgalugai.github.io/ru/"
+                href="https://olgalugai.com/ru/"
                 />
   </url>
   

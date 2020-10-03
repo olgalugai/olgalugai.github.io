@@ -3,63 +3,84 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://olgalugai.github.io/</loc>
+    <loc>https://olgalugai.com/</loc>
     <lastmod>2020-06-25T16:25:00+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="https://olgalugai.github.io/ru/"
+                href="https://olgalugai.com/ru/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://olgalugai.github.io/"
+                href="https://olgalugai.com/"
                 />
   </url>
   
   <url>
-    <loc>https://olgalugai.github.io/posts/</loc>
+    <loc>https://olgalugai.com/posts/</loc>
     <lastmod>2020-06-25T16:25:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://olgalugai.github.io/about/</loc>
+    <loc>https://olgalugai.com/about/</loc>
   </url>
   
   <url>
-    <loc>https://olgalugai.github.io/contact/</loc>
+    <loc>https://olgalugai.com/contact/</loc>
   </url>
   
   <url>
-    <loc>https://olgalugai.github.io/posts/my-first-post/</loc>
+    <loc>https://olgalugai.com/tags/free/</loc>
     <lastmod>2020-06-25T16:25:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://olgalugai.github.io/categories/</loc>
+    <loc>https://olgalugai.com/tags/music/</loc>
+    <lastmod>2020-06-25T16:25:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://olgalugai.com/posts/my-first-post/</loc>
+    <lastmod>2020-06-25T16:25:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://olgalugai.com/posts/my-second-post/</loc>
+    <lastmod>2020-06-25T16:25:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://olgalugai.com/tags/songs/</loc>
+    <lastmod>2020-06-25T16:25:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://olgalugai.com/tags/</loc>
+    <lastmod>2020-06-25T16:25:00+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="https://olgalugai.github.io/ru/categories/"
+                href="https://olgalugai.com/ru/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://olgalugai.github.io/categories/"
+                href="https://olgalugai.com/tags/"
                 />
   </url>
   
   <url>
-    <loc>https://olgalugai.github.io/tags/</loc>
+    <loc>https://olgalugai.com/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="https://olgalugai.github.io/ru/tags/"
+                href="https://olgalugai.com/ru/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://olgalugai.github.io/tags/"
+                href="https://olgalugai.com/categories/"
                 />
   </url>
   

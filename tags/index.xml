@@ -1,14 +1,42 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Eve&#39;s and Olga&#39;s website</title>
-    <link>https://olgalugai.github.io/tags/</link>
-    <description>Recent content in Tags on Eve&#39;s and Olga&#39;s website</description>
+    <title>Tags on _sharing ideas and experience_</title>
+    <link>https://olgalugai.com/tags/</link>
+    <description>Recent content in Tags on _sharing ideas and experience_</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <lastBuildDate>Thu, 25 Jun 2020 16:25:00 +0100</lastBuildDate>
     
-	<atom:link href="https://olgalugai.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://olgalugai.com/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>free</title>
+      <link>https://olgalugai.com/tags/free/</link>
+      <pubDate>Thu, 25 Jun 2020 16:25:00 +0100</pubDate>
+      
+      <guid>https://olgalugai.com/tags/free/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>music</title>
+      <link>https://olgalugai.com/tags/music/</link>
+      <pubDate>Thu, 25 Jun 2020 16:25:00 +0100</pubDate>
+      
+      <guid>https://olgalugai.com/tags/music/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>songs</title>
+      <link>https://olgalugai.com/tags/songs/</link>
+      <pubDate>Thu, 25 Jun 2020 16:25:00 +0100</pubDate>
+      
+      <guid>https://olgalugai.com/tags/songs/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>
