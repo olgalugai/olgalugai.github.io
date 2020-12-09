@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Home on Olga Lugai - Cloud Systems Developer - Blog</title>
+    <title>Home on Blog on technology and self-development</title>
     <link>https://olgalugai.com/</link>
-    <description>Recent content in Home on Olga Lugai - Cloud Systems Developer - Blog</description>
+    <description>Recent content in Home on Blog on technology and self-development</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 25 Jun 2020 16:25:00 +0100</lastBuildDate>
+    <lastBuildDate>Fri, 25 Dec 2020 16:25:00 +0100</lastBuildDate>
     
 	<atom:link href="https://olgalugai.com/index.xml" rel="self" type="application/rss+xml" />
     
@@ -17,25 +17,18 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://olgalugai.com/about/</guid>
-      <description></description>
+      <description>I support customers to build cloud infrastructure on Microsoft Azure as a Cloud Systems Developer. Before making a career change and joining Cloudreach in 2019, I worked in a cultural sector in Ukraine and the UK for over four years. After months of self-studying data analysis and programming, I was accepted for Fast Track programme in Cloudreach. Currently, I am supporting the customer with deployment and management of cloud services and sharing my experience and knowledge in this blog.</description>
     </item>
     
     <item>
-      <title>My First Post</title>
+      <title>Stepping Into the Unknown: My Experience Changing Careers</title>
       <link>https://olgalugai.com/posts/my-first-post/</link>
-      <pubDate>Thu, 25 Jun 2020 16:25:00 +0100</pubDate>
+      <pubDate>Fri, 25 Dec 2020 16:25:00 +0100</pubDate>
       
       <guid>https://olgalugai.com/posts/my-first-post/</guid>
-      <description>Testing the first post</description>
-    </item>
-    
-    <item>
-      <title>My Second Post</title>
-      <link>https://olgalugai.com/posts/my-second-post/</link>
-      <pubDate>Thu, 25 Jun 2020 16:25:00 +0100</pubDate>
-      
-      <guid>https://olgalugai.com/posts/my-second-post/</guid>
-      <description>Testing the second post</description>
+      <description>Originally published on Wagora Website.
+People have different experiences when starting their new career journeys, but something stays the same about this change – it is a unique valuable promising opportunity.
+Getting into a new industry is not only about meeting new people, looking at things from a different angle, learning from the new challenges or earning more money. It’s about the new ways of growing professionally and personally, as well as contributing to something bigger than you, whether it’s a team, a company or a whole industry.</description>
     </item>
     
   </channel>
